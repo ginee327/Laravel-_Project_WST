@@ -1,18 +1,28 @@
-# Task Manager (Laravel)
+# Personal Task Manager 
 
-Project Code: WST21-PM-2026-SF
+## Project Code
 
-Student Name: MARIEGINE A. GUMAHAD
+WST21-PM-2026-SF
 
-Course & Year: BSIT2
-Database Used: MySQL
+## Student Name
+
+MARIEGINE A. GUMAHAD
+
+## Course & Year
+
+BSIT 2nd YEAR
+
+## Database Used
+
+MySQL
 
 ## Features
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
+- *Add Task* - Users can add and save new tasks to the task manager.
+- *View Tasks* - Users can view and manage all their saved tasks.
+- *Edit Task* - Users can change or update the details of an existing task.
+- *Delete Task* - Users can delete tasks that they no longer need
+- *Update Status* - Users can update a task to show whether it is pending or completed.
+
 
 ## Setup
 1. composer install
